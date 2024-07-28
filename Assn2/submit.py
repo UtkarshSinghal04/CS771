@@ -2,7 +2,7 @@ import numpy as np
 import random
 
 class TextTree:
-    def _init_(self, min_leaf_size=1, max_depth=5):
+    def _init_(self, min_leaf_size=1, max_depth=6):
         self.root = None
         self.words = None
         self.min_leaf_size = min_leaf_size
