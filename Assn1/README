@@ -19,6 +19,6 @@ To enhance security, the COCO-PUF utilizes two arbiter PUFs with distinct sets o
 
 This cross-connection approach ensures that each challenge produces two distinct responses, adding an extra layer of complexity and security to the PUF.
 
-## Latest PUF technologies
+## Latest PUF Technologies
 
-latest PUF have unique, tamper-resistant digital fingerprints for electronic devices. These fingerprints are generated from the inherent and unpredictable variations in the manufacturing process of semiconductor devices, making each PUF unique and nearly impossible to replicate or clone. Recent innovations in PUF technology include solutions like Intrinsic ID's Zign® and QuiddiKey® series, which offer robust encryption and hardware root of trust for IoT devices, enhancing their security against cyber threats.
+Recent PUF technologies have developed unique, tamper-resistant digital fingerprints for electronic devices. These fingerprints are generated from the inherent and unpredictable variations in the manufacturing process of semiconductor devices, making each PUF unique and nearly impossible to replicate or clone. Innovations in PUF technology include solutions like Intrinsic ID's Zign® and QuiddiKey® series, which offer robust encryption and hardware root of trust for IoT devices, enhancing their security against cyber threats.
