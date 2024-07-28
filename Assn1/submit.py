@@ -1,6 +1,5 @@
 import numpy as np
 import sklearn.svm import LinearSVC
-from scipy.linalg import khatri_rao
 
 # You are allowed to import any submodules of sklearn that learn linear models e.g. sklearn.svm etc
 # You are not allowed to use other libraries such as keras, tensorflow etc
